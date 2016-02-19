@@ -9,3 +9,9 @@ Gnat
 Grasshopper
 Hornet
 Wasp
+Locust
+Louse
+Mosquito
+Spider
+Stinkbug
+Termite

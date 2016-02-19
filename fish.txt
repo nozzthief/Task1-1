@@ -2,3 +2,8 @@ Barracuda
 Eel
 Fish
 Goldfish
+Salmon
+Sardine
+Seahorse
+Stingray
+Trout

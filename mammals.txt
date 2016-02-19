@@ -56,3 +56,15 @@ Human
 Hyena
 Jackal
 Jaguar
+
+Vicu?a
+Wallaby
+Walrus
+Water buffalo
+Weasel
+Whale
+Wolf
+Wolverine
+Wombat
+Yak
+Zebra

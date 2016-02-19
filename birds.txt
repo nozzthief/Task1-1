@@ -25,3 +25,8 @@ Hawk
 Heron
 Herring
 Hummingbird
+
+Vulture
+Woodcock
+Woodpecker
+Wren

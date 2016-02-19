@@ -8,3 +8,4 @@ Fly
 Gnat
 Grasshopper
 Hornet
+Wasp
